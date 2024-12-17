@@ -59,7 +59,7 @@ Welcome to **Pong Arcade Game**, a modern implementation of the classic two-play
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pong-arcade-game.git
+   git clone https://github.com/wlqinnovations/PongArcadeGameWLQ.git
    ```
 2. Navigate to the project folder:
    ```bash
